@@ -1,4 +1,4 @@
-# metrosp-status-cli
+# metrosp-status-cli  [![Build Status](https://travis-ci.org/bukinoshita/metrosp-status-cli.svg?branch=master)](https://travis-ci.org/bukinoshita/metrosp-status-cli)
 
 > A real-time CLI for MetroSP status
 
