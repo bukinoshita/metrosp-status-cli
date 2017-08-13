@@ -31,7 +31,7 @@ $ metrosp-status --help
 
 ## Related
 
-- [metrosp-status] — API for this module
+- [metrosp-status](https://github.com/bukinoshita/metrosp-status) — API for this module
 
 
 ## License
