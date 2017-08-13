@@ -26,7 +26,7 @@ $ metrosp-status --help
 
 ## Demo
 
-<img src="https://github.com/bukinoshita/metrosp-status-cli/blob/master/github/demo.png"/>
+<img src="https://github.com/bukinoshita/metrosp-status-cli/blob/master/demo.png"/>
 
 
 ## Related
