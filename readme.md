@@ -13,10 +13,10 @@ $ npm install -g metrosp-status-cli
 ## Usage
 
 ```bash
-$ metrosp-status --help
+$ metrosp --help
 
   Usage:
-    $ metrosp-status            Show metrosp status
+    $ metrosp                   Show metrosp status
 
   Options:
     -h, --help                  Show help options
@@ -26,7 +26,7 @@ $ metrosp-status --help
 
 ## Demo
 
-<img src="https://github.com/bukinoshita/metrosp-status-cli/blob/master/demo.png" width="500"/>
+<img src="demo.gif"/>
 
 
 ## Related
