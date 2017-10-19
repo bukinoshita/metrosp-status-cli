@@ -32,6 +32,7 @@ $ metrosp --help
 ## Related
 
 - [metrosp-status](https://github.com/bukinoshita/metrosp-status) — API for this module
+- [last-tweet](https://github.com/bukinoshita/last-tweet) — Get Twitter user's last tweet
 
 
 ## License
