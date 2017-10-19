@@ -27,8 +27,10 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "figures": "^2.0.0",
+    "last-tweet": "^0.0.1",
     "meow": "^3.7.0",
     "metrosp-status": "^0.0.1",
+    "shout-message": "^0.0.2",
     "update-notifier": "^2.2.0"
   },
   "devDependencies": {

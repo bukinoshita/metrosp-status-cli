@@ -26,7 +26,7 @@ $ metrosp --help
 
 ## Demo
 
-<img src="demo.gif"/>
+<img src="demo.png"/>
 
 
 ## Related
