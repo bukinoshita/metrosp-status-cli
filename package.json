@@ -31,7 +31,7 @@
     "meow": "^3.7.0",
     "metrosp-status": "^0.0.1",
     "shout-message": "^0.0.2",
-    "update-notifier": "^2.2.0"
+    "update-notifier": "^3.0.0"
   },
   "devDependencies": {
     "eslint-config-prettier": "2.3.0",
