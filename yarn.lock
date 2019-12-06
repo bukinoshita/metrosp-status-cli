@@ -1561,9 +1561,9 @@ keyv@^3.0.0:
   dependencies:
     json-buffer "3.0.0"
 
-last-tweet@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/last-tweet/-/last-tweet-0.0.1.tgz#93f54487745c69ea054f427f5a12348ad42144c4"
+last-tweet@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/last-tweet/-/last-tweet-0.0.2.tgz#baf06c85a6ad1a7737ee0e5036f2803f35637f32"
   dependencies:
     cheerio "^1.0.0-rc.2"
     request "^2.83.0"
