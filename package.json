@@ -28,7 +28,7 @@
     "chalk": "^3.0.0",
     "figures": "^3.0.0",
     "last-tweet": "^0.0.2",
-    "meow": "^6.0.0",
+    "meow": "^7.0.0",
     "metrosp-status": "^0.0.1",
     "shout-message": "^0.0.3",
     "update-notifier": "^4.0.0"
